@@ -4,6 +4,7 @@ cd - Skiptir um staðsetningu
 ls - Sýnir öll gögn í viðkomandi möppu
 
 pwd - Sýnir staðsetningu Git Bash
+
 mkdir - Býr til möppu
 ### Hvað gera eftirfarandi Git skipanir?
 git clone - Klóna geymsluna yfir á vinnusvæði þitt
