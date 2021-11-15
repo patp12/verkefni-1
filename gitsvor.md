@@ -9,7 +9,7 @@ mkdir - Býr til möppu
 ### Hvað gera eftirfarandi Git skipanir?
 git clone - Klóna geymsluna yfir á vinnusvæði þitt
 
-git status
+git status - 
 
 git diff
 ### Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
