@@ -9,9 +9,10 @@ mkdir - Býr til möppu
 ### Hvað gera eftirfarandi Git skipanir?
 git clone - Klóna geymsluna yfir á vinnusvæði þitt
 
-git status - 
+git status - Athugar stöðu staðbundinnar geymslu gegn fjartengdri geymslu 
 
-git diff
+git diff - Sýnir breytingar sem þú ert að vinna í frá síðustu skráningu (commit).
+
 ### Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log - Til að skoða tímalínuna
 
